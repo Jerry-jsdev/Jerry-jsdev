@@ -14,6 +14,7 @@ Bio:
 
 <h3 align="left">Programming Languages:</h3>
 
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23a2cc5f?style=for-the-badge&logo=php)
 ![C#](https://img.shields.io/badge/c_sharp-%23a83de5?style=for-the-badge&logo=sharp)
@@ -29,9 +30,8 @@ Bio:
 ![MOJO](https://img.shields.io/badge/MOJO-%23fc4e56?style=for-the-badge)
 
 
-
-
 <h3 align="left">Cloud & DevOps:</h3>
+
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
@@ -40,13 +40,17 @@ Bio:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 
+
 <h3 align="left">Operating Systems:</h3>
+
 
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
+
 <h3 align="left">Web Development:</h3>
+
 
 <a> <img src="https://th.bing.com/th/id/R.a89da1f0dab6e74fa8e0075ed72b0aa3?rik=9jxZkxIFyVUhDA&riu=http%3a%2f%2fandypanix.com%2fsites%2fandypanix.com%2ffiles%2f134%2fhttpdlogowide.png&ehk=OfhOiYPyQidg5IH2zahJkpPX1%2b%2fcHH%2bB5Zi3vlLEHJI%3d&risl=&pid=ImgRaw&r=0" width="65" height="35"/> </a>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,12 +58,16 @@ Bio:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![ReactJS](https://img.shields.io/badge/React_JS-blue?style=for-the-badge&logo=react)
 
+
 <h3 align="left">Mobile App Development:</h3>
+
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2325cec6?style=for-the-badge)
 
+
 <h3 align="left">Designing:</h3>
+
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
@@ -67,6 +75,7 @@ Bio:
 
 
 <h3 align="left">Databases:</h3>
+
 
 ![MySQL](https://img.shields.io/badge/MySql-%2354424f?style=for-the-badge&logo=MySQL)
 ![CouchDB](https://img.shields.io/badge/couchdb-%234b6cf2?style=for-the-badge&logo=apachecouchdb)
@@ -76,6 +85,7 @@ Bio:
 
 
 <h3 align="left">Data Science & Machine Learning:</h3>
+
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
