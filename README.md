@@ -4,7 +4,7 @@
 ```yaml
 Bio:
     Name: "Jerry Huang"
-    Role: "Software Developer @ metapos"
+    Role: "Software Developer"
     Education: "University of Auckland with Computer Science"
     Location: "Auckland, New Zealand"
     
